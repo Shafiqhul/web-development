@@ -29,3 +29,6 @@ Code regarding html and css
     1. natural numbers
     2. Integers 
     3. Rational numbers 
+
+
+    ![Taj Mahal](https://images.app.goo.gl/Bpk8Qx531ECA8z8X8)
