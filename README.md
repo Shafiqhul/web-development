@@ -8,16 +8,24 @@ Code regarding html and css
 **Amitabh Bachchan**
 ***Arundhati Bhattacharya***
 # unordered list 
-* Fruits as unordered list 
+
+* Fruits 
+
+        * Apple
+        * Banana 
+
 * Vegetables
-      * Potato
-      * Radish 
-      * Carrot 
+
+          * Potato
+          * Radish 
+          * Carrot 
 * Pickles
+
     * Mango pickle
     * Lemon pickle
 
 * Spices 
+
      * Cumin 
      * Lavang 
      * Elachi 
@@ -32,3 +40,17 @@ Code regarding html and css
 
 
     ![Taj Mahal](https://images.app.goo.gl/Bpk8Qx531ECA8z8X8)
+
+   [Wikipedia](https://www.wikipedia.org/)
+
+
+   ~~~python 
+    Def fun():
+    Print ("hai")
+   ~~~
+
+
+  Table 1| Table 2
+---------|---------
+Table body 1 | table body 2
+
